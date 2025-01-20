@@ -1,5 +1,5 @@
-Time Complexity => O(m*n*3^l) because from each specific point you can go into the 3 direction and then you can explore till string of the length
-Space Complexity => O(l)  because this will be the length of the recursion stack.   
+//Time Complexity => O(m*n*3^l) because from each specific point you can go into the 3 direction and then you can explore till string of the length
+//Space Complexity => O(l)  because this will be the length of the recursion stack.   
 class Solution {
     int rows;
     int columns;
